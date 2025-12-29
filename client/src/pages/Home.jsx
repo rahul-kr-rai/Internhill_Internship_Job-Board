@@ -117,7 +117,7 @@ export default function Home() {
               // If image fails, show a placeholder box
               onError={(e) => {
                 e.target.onerror = null; 
-                e.target.src="https://placehold.co/600x400/e0e7ff/4f46e5?text=InternHill+Hero";
+                e.target.src="https://gemini.google.com/share/29b6f5adc5af";
               }}
             />
           </div>
