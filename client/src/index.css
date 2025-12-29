@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Minimal styles for the demo */
+/* Minimal CSS — Tailwind is loaded via CDN */
+:root { --brand: #4f46e5; }
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Source Sans Pro',
+    -apple-system, BlinkMacSystemFont;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.container { max-width: 1000px; margin: 0 auto; padding: 16px; }
+nav a { margin-right: 12px; color: #0366d6; text-decoration: none; }
+input, textarea, select { display:block; margin:6px 0; padding:8px; width:100%; max-width:420px; }
+button { padding:8px 12px; margin-top:8px; }
