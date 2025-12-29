@@ -1,7 +1,7 @@
 # 💼 InternHill Job Board
 
 InternHillJob-Board is a comprehensive job board application built with the MERN stack (MongoDB, Express, React, Node.js). It provides a seamless platform for job seekers to discover internship opportunities and employers to post jobs, manage applications, and track candidates. The application features role-based access control, real-time job search, and secure resume management.
----
+
 
 ## ✨ Features
 
